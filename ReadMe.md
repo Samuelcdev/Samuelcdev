@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy aprendiz SENA apasionado por el desarrollo de software
+Soy Samuel Useche Chaparro, soy aprendiz SENA apasionado por el desarrollo de software
 
 
 # 💻 Tech Stack:

@@ -1,5 +1,6 @@
 # 💫 About Me:
-Soy Samuel Useche Chaparro, tengo 18 años soy aprendiz SENA apasionado por el desarrollo de software con una increible hambre de aprender y experimentar nuevas cosas
+👋 ¡Hola! Soy Samuel Useche
+💻 Desarrollador web en formación | Apasionado por la tecnología y la mejora continua
 
 
 # 💻 Tech Stack:

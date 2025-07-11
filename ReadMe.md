@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Samuel Useche
+# 👋 ¡Hola! Soy Samuel Useche
 💻 Desarrollador web en formación | Apasionado por la tecnología y la mejora continua
 # 🚀 Sobre mí
 Soy estudiante de Analisis y desarrollo de software, actualmente realizando prácticas en desarrollo de software. Me enfoco en aprender y aplicar tecnologías web como PHP, JavaScript, MySQL y Tailwind CSS, con el objetivo de convertirme en Full Stack Developer.

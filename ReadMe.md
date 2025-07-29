@@ -12,5 +12,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Samuelcdev&theme=react&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelcdev&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 

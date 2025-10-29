@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy <span style="color:#FFD700;">Samuel Useche Chaparro  💻</span>
+## Hola, soy <span style="color:#FFD700;">Samuel Useche Chaparro  💻</span>
 
 </div>
 

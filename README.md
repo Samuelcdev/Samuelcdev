@@ -6,7 +6,7 @@
 
 # 💫 Sobre mi:
 
-<br>**Técnico en programación de software** actualmente cursando el **Tecnólogo en Análisis y Desarrollo de Software** en el SENA, apasionado por crear soluciones tecnológicas eficientes, escalables y fáciles de mantener.<br><br>
+<br>**Tecnólogo en análisis y desarrollo de software. Apasionado por crear soluciones tecnológicas eficientes, escalables y fáciles de mantener.<br><br>
 Durante mi formación por el SENA, me desempeñe como **monitor académico** en un proyecto colaborativo, brindando mi apoyo en la creación de paginas web. Esa experiencia me ayudo a fortalecer mis habilidades de **comunicación técnica y trabajo en equipo**.<br><br>
 Me caracteriza tener una mentalidad de **crecimiento continuo**, buscando siempre perfeccionar lo que hago adoptando buenas practicas de desarrollo. Actualmente esto enfocado en mejorar mis habilidades de programación.<br><br>
 # 🌐 Redes Sociales:
